@@ -183,9 +183,10 @@
 1179 missing_resources.gpf
 1180 questinfo.rgz
 1181 itemeffect.rgz
-1182 iteminfo.rgz
+//1182 iteminfo.rgz
 1183 bgm_missing_added.gpf
 1184 card_enchant_prefixes.gpf
 1185 maps_added_and_fixed.gpf
 1186 ndl_on.gpf
 1187 signboardList_Mosu.gpf
+1188 iteminfo.rgz

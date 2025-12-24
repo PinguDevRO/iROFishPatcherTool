@@ -181,7 +181,7 @@
 1177 bundle_all_edits.gpf
 1178 missing_skills_fix.gpf
 1179 missing_resources.gpf
-1180 questinfo.rgz
+//1180 questinfo.rgz
 1181 itemeffect.rgz
 //1182 iteminfo.rgz
 1183 bgm_missing_added.gpf
@@ -190,3 +190,4 @@
 1186 ndl_on.gpf
 1187 signboardList_Mosu.gpf
 1188 iteminfo.rgz
+1189 questinfo.rgz

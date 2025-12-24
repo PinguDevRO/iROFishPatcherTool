@@ -191,3 +191,4 @@
 //1187 signboardList_Mosu.gpf
 1188 iteminfo.rgz
 1189 questinfo.rgz
+1190 bundle_all_edits.gpf

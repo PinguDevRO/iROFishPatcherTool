@@ -193,3 +193,4 @@
 1189 questinfo.rgz
 1190 bundle_all_edits.gpf
 1191 patch_some_edits.gpf
+1192 monster_size.rgz

@@ -189,8 +189,9 @@
 //1185 maps_added_and_fixed.gpf
 //1186 ndl_on.gpf
 //1187 signboardList_Mosu.gpf
-1188 iteminfo.rgz
+//1188 iteminfo.rgz
 1189 questinfo.rgz
 1190 bundle_all_edits.gpf
 1191 patch_some_edits.gpf
 1192 monster_size.rgz
+1193 iteminfo.rgz

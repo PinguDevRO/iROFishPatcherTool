@@ -194,6 +194,7 @@
 1190 bundle_all_edits.gpf
 1191 patch_some_edits.gpf
 1192 monster_size.rgz
-1193 iteminfo.rgz
+//1193 iteminfo.rgz
 1194 patcher_style_update.rgz
 1195 questinfo.rgz
+1196 iteminfo.rgz

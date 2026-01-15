@@ -198,3 +198,4 @@
 1194 patcher_style_update.rgz
 1195 questinfo.rgz
 1196 iteminfo.rgz
+1197 card_enchant_prefixes.gpf

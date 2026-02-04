@@ -199,8 +199,9 @@
 //1195 questinfo.rgz
 //1196 iteminfo.rgz
 //1197 card_enchant_prefixes.gpf
-1197 patch_some_edits.gpf
+//1197 patch_some_edits.gpf
 //1198 Character Select Decorative.gpf
 1198 character_select-decorative.gpf
 1199 iteminfo.rgz
 1200 questinfo.rgz
+1201 patch_some_edits.gpf

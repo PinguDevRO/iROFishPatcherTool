@@ -227,7 +227,7 @@
 //1221 2026-03-05_live_client_1371_1371_1772615201.rgz
 //1222 2026-03-05_live_client_1372_1376_1772689863.rgz
 //1223 iteminfo.rgz
-1224 questinfo.rgz
+//1224 questinfo.rgz
 1225 2026-03-17_Ragexe_1773712938.rgz
 1226 2026-03-17_Raghash_1773728595.rgz
 1227 2026-03-17_live_client_1377_1380_1773712938.gpf
@@ -238,3 +238,4 @@
 1232 2026-03-17_live_client_1386_1387_1773728595.rgz
 1233 sprite_qol.gpf
 1234 iteminfo.rgz
+1235 questinfo.rgz

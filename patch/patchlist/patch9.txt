@@ -251,3 +251,4 @@
 1245 questinfo.rgz
 //1246 iteminfo.rgz
 1247 iteminfo.rgz
+1248 ItemFilter.gpf

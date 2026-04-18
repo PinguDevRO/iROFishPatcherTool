@@ -177,7 +177,7 @@
 1173 monsters_qol.rgz
 1174 stateicon.gpf
 //1175 patch_some_edits.gpf
-1176 mvp_card_sprites.gpf
+//1176 mvp_card_sprites.gpf
 //1177 bundle_all_edits.gpf
 //1178 missing_skills_fix.gpf
 //1179 missing_resources.gpf
@@ -252,4 +252,6 @@
 //1246 iteminfo.rgz
 1247 iteminfo.rgz
 1248 ItemFilter.gpf
-1249 itemeffect.rgz
+//1249 itemeffect.rgz
+1250 itemeffect.rgz
+1251 mvp_card_sprites.gpf

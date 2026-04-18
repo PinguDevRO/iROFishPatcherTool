@@ -256,3 +256,4 @@
 1250 itemeffect.rgz
 //1251 mvp_card_sprites.gpf
 1252 mvp_card_sprites.gpf
+1253 EquipPropertiesFix.gpf

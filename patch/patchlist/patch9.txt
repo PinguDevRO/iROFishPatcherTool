@@ -248,7 +248,7 @@
 //1242 2026-04-07_live_client_1392_1394_1775444168.gpf
 //1243 2026-04-07_live_client_1392_1394_1775444168.rgz
 //1244 2026-04-07_live_client_1399_1399_1775460623.rgz
-1245 questinfo.rgz
+//1245 questinfo.rgz
 //1246 iteminfo.rgz
 //1247 iteminfo.rgz
 1248 ItemFilter.gpf
@@ -275,3 +275,4 @@
 1269 2026-05-07_live_client_1417_1417_1778044110.rgz
 1270 2026-05-07_live_client_1421_1423_1778056348.gpf
 1271 iteminfo.rgz
+1272 questinfo.rgz

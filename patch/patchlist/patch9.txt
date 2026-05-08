@@ -195,7 +195,7 @@
 //1191 patch_some_edits.gpf
 1192 monster_size.rgz
 //1193 iteminfo.rgz
-1194 patcher_style_update.rgz
+//1194 patcher_style_update.rgz
 //1195 questinfo.rgz
 //1196 iteminfo.rgz
 //1197 card_enchant_prefixes.gpf
@@ -276,3 +276,4 @@
 1270 2026-05-07_live_client_1421_1423_1778056348.gpf
 1271 iteminfo.rgz
 1272 questinfo.rgz
+1273 patcher_style_update.rgz

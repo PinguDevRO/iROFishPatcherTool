@@ -191,7 +191,7 @@
 //1187 signboardList_Mosu.gpf
 //1188 iteminfo.rgz
 //1189 questinfo.rgz
-1190 bundle_all_edits.gpf
+//1190 bundle_all_edits.gpf
 //1191 patch_some_edits.gpf
 1192 monster_size.rgz
 //1193 iteminfo.rgz
@@ -296,3 +296,4 @@
 1290 iteminfo.rgz
 1291 questinfo.rgz
 1292 stateicon.gpf
+1293 bundle_all_edits.gpf

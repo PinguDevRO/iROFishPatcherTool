@@ -204,7 +204,7 @@
 1198 character_select-decorative.gpf
 //1199 iteminfo.rgz
 //1200 questinfo.rgz
-1201 patch_some_edits.gpf
+//1201 patch_some_edits.gpf
 //1202 2026-02-10_Raghash_1770704888.rgz
 //1203 2026-02-10_live_client_1354_1354_1770358385.gpf
 //1204 2026-02-10_live_client_1354_1354_1770358385.rgz

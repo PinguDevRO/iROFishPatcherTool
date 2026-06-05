@@ -175,7 +175,7 @@
 1171 eac_installer.rgz
 //1172 sprite_qol.gpf
 1173 monsters_qol.rgz
-1174 stateicon.gpf
+//1174 stateicon.gpf
 //1175 patch_some_edits.gpf
 //1176 mvp_card_sprites.gpf
 //1177 bundle_all_edits.gpf
@@ -295,3 +295,4 @@
 1289 2026-06-04_live_client_1447_1447_1780567691.rgz
 1290 iteminfo.rgz
 1291 questinfo.rgz
+1292 stateicon.gpf

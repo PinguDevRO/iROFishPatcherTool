@@ -275,7 +275,7 @@
 //1269 2026-05-07_live_client_1417_1417_1778044110.rgz
 //1270 2026-05-07_live_client_1421_1423_1778056348.gpf
 //1271 iteminfo.rgz
-1272 questinfo.rgz
+//1272 questinfo.rgz
 1273 patcher_style_update.rgz
 //1274 2026-05-19_Raghash_1779171275.rgz
 //1275 2026-05-19_live_client_1425_1425_1779081418.gpf
@@ -294,3 +294,4 @@
 1288 2026-06-04_live_client_1445_1446_1780563690.rgz
 1289 2026-06-04_live_client_1447_1447_1780567691.rgz
 1290 iteminfo.rgz
+1291 questinfo.rgz

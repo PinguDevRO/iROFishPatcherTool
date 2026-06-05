@@ -276,7 +276,7 @@
 //1270 2026-05-07_live_client_1421_1423_1778056348.gpf
 //1271 iteminfo.rgz
 //1272 questinfo.rgz
-1273 patcher_style_update.rgz
+//1273 patcher_style_update.rgz
 //1274 2026-05-19_Raghash_1779171275.rgz
 //1275 2026-05-19_live_client_1425_1425_1779081418.gpf
 //1276 2026-05-19_live_client_1425_1425_1779081418.rgz
@@ -297,3 +297,4 @@
 1291 questinfo.rgz
 1292 stateicon.gpf
 1293 bundle_all_edits.gpf
+1294 patcher_style_update.rgz

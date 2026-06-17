@@ -294,7 +294,7 @@
 //1288 2026-06-04_live_client_1445_1446_1780563690.rgz
 //1289 2026-06-04_live_client_1447_1447_1780567691.rgz
 //1290 iteminfo.rgz
-1291 questinfo.rgz
+//1291 questinfo.rgz
 1292 stateicon.gpf
 1293 bundle_all_edits.gpf
 1294 patcher_style_update.rgz
@@ -307,3 +307,4 @@
 1301 2026-06-16_live_client_1454_1454_1781592074.gpf
 1302 2026-06-16_live_client_1454_1454_1781592074.rgz
 1303 iteminfo.rgz
+1304 questinfo.rgz

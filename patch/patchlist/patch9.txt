@@ -308,3 +308,4 @@
 1302 2026-06-16_live_client_1454_1454_1781592074.rgz
 1303 iteminfo.rgz
 1304 questinfo.rgz
+1305 patch_some_edits.gpf

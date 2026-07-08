@@ -307,7 +307,7 @@
 //1301 2026-06-16_live_client_1454_1454_1781592074.gpf
 //1302 2026-06-16_live_client_1454_1454_1781592074.rgz
 //1303 iteminfo.rgz
-1304 questinfo.rgz
+//1304 questinfo.rgz
 1305 patch_some_edits.gpf
 //1306 2026-06-23_Raghash_1781845507.rgz
 //1307 2026-06-23_live_client_1455_1456_1781845507.gpf
@@ -334,3 +334,4 @@
 1328 2026-07-07_live_client_1479_1479_1783478962.gpf
 1329 iteminfo.rgz
 1330 patch_some_edits.gpf.gpf
+1331 questinfo.rgz

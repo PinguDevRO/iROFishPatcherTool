@@ -253,7 +253,7 @@
 //1247 iteminfo.rgz
 1248 ItemFilter.gpf
 //1249 itemeffect.rgz
-1250 itemeffect.rgz
+//1250 itemeffect.rgz
 //1251 mvp_card_sprites.gpf
 1252 mvp_card_sprites.gpf
 //1253 EquipPropertiesFix.gpf
@@ -338,3 +338,4 @@
 1332 patch_some_edits.gpf
 1333 season3_big_sprites.gpf
 1334 EquipPropertiesFix.gpf
+1335 itemeffect.rgz

@@ -256,7 +256,7 @@
 1250 itemeffect.rgz
 //1251 mvp_card_sprites.gpf
 1252 mvp_card_sprites.gpf
-1253 EquipPropertiesFix.gpf
+//1253 EquipPropertiesFix.gpf
 //1254 2026-04-21_Ragexe_1776666934.rgz
 //1255 2026-04-21_Raghash_1776754674.rgz
 //1256 2026-04-21_live_client_1402_1403_1775814226.rgz
@@ -337,3 +337,4 @@
 1331 questinfo.rgz
 1332 patch_some_edits.gpf
 1333 season3_big_sprites.gpf
+1334 EquipPropertiesFix.gpf

@@ -334,8 +334,9 @@
 //1328 2026-07-07_live_client_1479_1479_1783478962.gpf
 1329 iteminfo.rgz
 //1330 patch_some_edits.gpf.gpf
-1331 questinfo.rgz
+//1331 questinfo.rgz
 1332 patch_some_edits.gpf
 1333 season3_big_sprites.gpf
 1334 EquipPropertiesFix.gpf
 1335 itemeffect.rgz
+1336 questinfo.rgz

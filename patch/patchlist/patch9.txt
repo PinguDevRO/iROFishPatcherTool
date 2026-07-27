@@ -338,6 +338,7 @@
 1332 patch_some_edits.gpf
 1333 season3_big_sprites.gpf
 1334 EquipPropertiesFix.gpf
-1335 itemeffect.rgz
+//1335 itemeffect.rgz
 1336 questinfo.rgz
 1337 iteminfo.rgz
+1338 itemeffect.rgz

@@ -340,7 +340,7 @@
 1334 EquipPropertiesFix.gpf
 //1335 itemeffect.rgz
 1336 questinfo.rgz
-1337 iteminfo.rgz
+//1337 iteminfo.rgz
 1338 itemeffect.rgz
 1339 2026-08-04_Raghash_1785477957.rgz
 1340 2026-08-04_live_client_1494_1494_1785401193.gpf
@@ -348,3 +348,4 @@
 1342 2026-08-04_live_client_1498_1498_1785477957.gpf
 1343 2026-08-04_live_client_1498_1498_1785477957.rgz
 1344 2026-08-04_live_client_1499_1499_1785485554.gpf
+1345 iteminfo.rgz

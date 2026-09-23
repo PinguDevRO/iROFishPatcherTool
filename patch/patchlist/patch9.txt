@@ -339,7 +339,7 @@
 1333 season3_big_sprites.gpf
 //1334 EquipPropertiesFix.gpf
 //1335 itemeffect.rgz
-1336 questinfo.rgz
+//1336 questinfo.rgz
 //1337 iteminfo.rgz
 1338 itemeffect.rgz
 //1339 2026-08-04_Raghash_1785477957.rgz
@@ -379,3 +379,4 @@
 1373 2026-09-22_live_client_1550_1550_1790053046.rgz
 1374 iteminfo.rgz
 1375 2026-09-22_live_client_1551_1554_1790127147.gpf
+1376 questinfo.rgz

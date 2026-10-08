@@ -402,7 +402,7 @@
 1396 mvp_card_sprites.gpf
 1397 patch_some_edits.gpf
 1398 patcher_style_update.rgz
-1399 questinfo.rgz
+//1399 questinfo.rgz
 1400 season3_big_sprites.gpf
 1401 sprite_qol.gpf
 1402 stateicon.gpf
@@ -424,3 +424,4 @@
 1418 2026-10-06_Ragexe_1791467274.rgz
 1419 2026-10-06_Raghash_1791467274.rgz
 1420 2026-10-06_live_client_1574_1578_1791467274.gpf
+1421 questinfo.rgz

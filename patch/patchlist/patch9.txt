@@ -428,4 +428,5 @@
 1422 questinfo.rgz
 1423 temporary_edits_2.gpf
 //1424 patcher_style_update.rgz
-1425 patcher_style_update.rgz
+//1425 patcher_style_update.rgz
+1426 patcher_style_update.rgz

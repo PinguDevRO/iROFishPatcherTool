@@ -429,6 +429,7 @@
 1423 temporary_edits_2.gpf
 //1424 patcher_style_update.rgz
 //1425 patcher_style_update.rgz
-1426 patcher_style_update.rgz
+//1426 patcher_style_update.rgz
 1427 iteminfo.rgz
 1428 monster_size.rgz
+1429 patcher_style_update.rgz

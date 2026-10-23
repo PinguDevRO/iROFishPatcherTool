@@ -432,8 +432,9 @@
 //1426 patcher_style_update.rgz
 //1427 iteminfo.rgz
 1428 monster_size.rgz
-1429 patcher_style_update.rgz
+//1429 patcher_style_update.rgz
 1430 2026-10-23_Raghash_1792718011.rgz
 1431 2026-10-23_live_client_1594_1594_1792718011.gpf
 1432 2026-10-23_live_client_1594_1594_1792718011.rgz
 1433 iteminfo.rgz
+1434 patcher_style_update.rgz

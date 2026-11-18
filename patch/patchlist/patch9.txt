@@ -444,7 +444,7 @@
 1438 mvp_card_sprites.gpf
 1439 sprite_qol.gpf
 1440 stateicon.gpf
-1441 itemeffect.rgz
+//1441 itemeffect.rgz
 //1442 2026-10-06_Ragexe_1791467274.rgz
 //1443 2026-10-23_Raghash_1792718011.rgz
 1442 temporary_edits_3.gpf
@@ -474,3 +474,4 @@
 //1466 2026-11-17_live_client_live_1633_1633_1794963608.gpf
 //1467 2026-11-17_Ragexe_1794974402.rgz
 //1468 2026-11-17_Raghash_1794974402.rgz
+1460 itemeffect.rgz

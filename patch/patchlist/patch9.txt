@@ -474,5 +474,5 @@
 //1466 2026-11-17_live_client_live_1633_1633_1794963608.gpf
 //1467 2026-11-17_Ragexe_1794974402.rgz
 //1468 2026-11-17_Raghash_1794974402.rgz
-1460 itemeffect.rgz
-1461 iteminfo.rgz
+1469 itemeffect.rgz
+1470 iteminfo.rgz
